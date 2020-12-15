@@ -1,0 +1,4 @@
+*.backup
+*.md
+*.json
+__pycache*
